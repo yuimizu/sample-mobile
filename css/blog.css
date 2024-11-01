@@ -1,0 +1,39 @@
+div.blogselection div.j-blogarticle {
+    margin-bottom: 15px;
+}
+
+div.blogselection div.clearover {
+    border-bottom: 1px solid #eee;
+}
+
+div.datetime {
+    float: right;
+    width: 44px;
+    height: 45px;
+    margin: 0 10px 10px 0;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAtCAMAAADiBnmWAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABRUExURTMzMzIyMjMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzOt5wCZ4SWo5Rmj5A6f4wab4pnedQ8AAAAVdFJOUycBGAhjBA4TQgYQAwweOiImMj9aSrUQZw8AAAC4SURBVDjL7dXNDoMgEEbRQSo6yD9WwPd/0IJJE1c4Lpt6d8bDdj5gjC0jXjcujAFjyJWQUz8pFMeKkctBWwe9nNWD5AhLtW9KVcOoBiBhGBSg0J6EvRaA0hoSNlYCTi6QcHBTxTCT8AwPfvBP4JxSH6aUyxdvtb2UXB+dn7WvnEvZ2//tjC978B9iF0j4OLn1mJPwcczrTJBwm4k2QGaN8dUrxtW0AWrTBt6EuVcwHtq03RrNO3P8Aa1RhBf+vWu4AAAAAElFTkSuQmCC) no-repeat center center #fff;
+}
+
+p.yr {
+    display: none;
+}
+
+p.mon {
+    padding-top: 1px;
+    font-size: 11px;
+}
+
+p.day, p.mon {
+    color: #fff;
+    text-align: center;
+}
+
+p.day {
+    line-height: 20px;
+    padding-top: 4px;
+    font-size: 18px;
+}
+
+p.day-word {
+    display: none;
+}
